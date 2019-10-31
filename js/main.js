@@ -14,7 +14,7 @@ var pippo =
 };
 for (var key in pippo)
 {
-    console.log(pippo[key]);
+    console.log(key + ":", pippo[key]);
 }
 var pluto =
 {
